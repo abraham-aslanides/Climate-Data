@@ -3,4 +3,4 @@ This program uses Java to clean a dataset of daily average temperature readings.
 The "city_temperature.csv" data was obtained from University of Dayton via Kaggle.
 
 The program also aggregates the University of Dayton data with additional data from NOAA sourced from https://www.ncei.noaa.gov/cdo-web/.
-Extract additional datasets in the "raw_data" directory and run the program to see it in action.
+Additional data can be added to the raw_data folder to expand the data set.
