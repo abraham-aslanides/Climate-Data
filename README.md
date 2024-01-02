@@ -6,3 +6,5 @@ The "city_temperature.csv" data was obtained from University of Dayton via Kaggl
 
 The program also aggregates the University of Dayton data with additional data from NOAA sourced from https://www.ncei.noaa.gov/cdo-web/.
 Additional data can be added to the raw_data folder to expand the data set.
+
+This cleaned data set was then used for my Projected Global Temperatures Tableau project which can be viewed here: https://public.tableau.com/app/profile/abraham.aslanides/viz/ProjectedGlobalTemperaturesDashboard_17027094823090/GlobalTemperatureChange
